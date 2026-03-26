@@ -31,6 +31,10 @@
 
 Unlike other robot dog projects that require expensive 3D printers, Albert uses **hand-cut PVC sheets** as the primary structural material—making it accessible to anyone with basic tools.
 
+<p align="center">
+  <img src="media/b.jpeg" alt="Albert - The Desktop Robot Dog" width="600">
+</p>
+
 ## Key Features
 
 | Feature | Description |
