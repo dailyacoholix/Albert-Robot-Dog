@@ -209,12 +209,6 @@ Albert-Robot-Dog/
 - [ ] Camera vision module
 - [ ] ROS2 integration
 
-## Resources
-
-| Resource | Link |
-|----------|------|
-| Build Video | [YouTube Playlist](https://www.youtube.com/watch?v=BcBU12znWGY&list=PLQey8aj8yylbTeWVte_OdK9OE-_UpWSfI) |
-| Original Project | [Thinking Things](https://github.com/thinking0things) |
 
 ## Contributing
 
