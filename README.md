@@ -1,3 +1,5 @@
+https://x.com/AlbertRDog</br>
+s
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-ESP32-blue?style=for-the-badge&logo=espressif" alt="ESP32">
   <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus" alt="C++">
